@@ -5,7 +5,10 @@
 
 <p align="left"> <a href="https://twitter.com/aaryan8534" target="blank"><img src="https://img.shields.io/twitter/follow/aaryan8534?logo=twitter&style=for-the-badge" alt="aaryan8534" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript,DSA**
+-## I’m currently learning
+<li><ul>I am currently working on my DSA skills and I am proficient in C++.</ul>
+<ul>I am an enthusiastic Front-end Developer.</ul>
+ <ul>Looking ahead to learn new skills and bring out technological developments.</ul></li>
 
 - 📫 How to reach me **ajayaaryan4u@gmail.com**
 
