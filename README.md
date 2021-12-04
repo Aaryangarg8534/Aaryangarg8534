@@ -6,9 +6,9 @@
 <p align="left"> <a href="https://twitter.com/aaryan8534" target="blank"><img src="https://img.shields.io/twitter/follow/aaryan8534?logo=twitter&style=for-the-badge" alt="aaryan8534" /></a> </p>
 
 <h3> I’m currently learning</h3>
--I am currently working on my DSA skills and I am proficient in C++.
--I am an enthusiastic Front-end Developer.
--Looking ahead to learn new skills and bring out technological developments.
+- I am currently working on my DSA skills and I am proficient in C++.
+- I am an enthusiastic Front-end Developer.
+- Looking ahead to learn new skills and bring out technological developments.
 
 - 📫 How to reach me **ajayaaryan4u@gmail.com**
 
